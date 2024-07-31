@@ -6,7 +6,7 @@ With the popularity of hybrid quantum-classical systems, particularly noisy inte
 
 **Methodology**
 
-![Methodology Overview](Images/methodology.jpg)
+![Methodology Overview](Images/methodology.png)
 
 - Datasets Folder contains the script used for Automatic extraction, as well as 3 files: the original extraction annotated by both authors, the initial dataset including the processed interview, and the final dataset organised around the categories used to build the final taxonomy.
 - Interviews Folder contains the interview script as well as the original and polished transcriptions of all interviews. Interview parts that were extracted as faults for our dataset are highlighted in the polished versions.
