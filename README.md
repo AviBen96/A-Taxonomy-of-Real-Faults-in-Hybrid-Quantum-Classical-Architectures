@@ -12,6 +12,8 @@ ACM Transactions on Software Engineering and Methodology.
 Zenodo record with DOI for this replication package:  
 [https://doi.org/10.5281/zenodo.18172880](https://doi.org/10.5281/zenodo.18172880)
 
+
+
 *Abstract:* 
 With the popularity of hybrid quantum-classical systems, particularly noisy intermediate-scale quantum (NISQ) architectures, comes the need for adapted quality assurance methods. In this study, we propose a taxonomy of NISQ faults accompanied by real faults in the identified categories. To achieve this, we empirically analysed open-source NISQ repositories for fixed faults. We analysed over 5000 closed issues on GitHub and pre-selected 529 of them based on rigorously defined inclusion criteria. We selected 133 faults that we labelled around symptoms and the origin of the faults. We cross-validated the classification and labels assigned to every fault between the two authors. As a result, we introduced a taxonomy of real faults in NISQ systems. Subsequently, we validated the taxonomy through interviews conducted with over eleven NISQ developers. The taxonomy was dynamically updated throughout the cross-validation and interview processes. The final version was validated and discussed through surveys conducted with a second batch of domain experts to ensure its relevance.
 
